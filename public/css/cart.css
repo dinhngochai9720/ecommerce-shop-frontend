@@ -1,0 +1,10 @@
+.image_cart_item {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+}
+
+.cart_quantity_input {
+    width: 50px;
+    height: 30px;
+}
